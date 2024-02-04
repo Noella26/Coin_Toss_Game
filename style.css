@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(160, 218, 220);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .game-container {
+    background-color:rgb(165, 168, 168);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    padding: 20px;
+  }
+  
+  .game-content {
+    margin-top: 30px;
+  }
+  
+  #coin {
+    width: 200px;
+    height: 200px;
+  }
+  
+  #result {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  #score {
+    margin-top: 20px;
+  }
+  
+  button {
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  
